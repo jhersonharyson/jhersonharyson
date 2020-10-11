@@ -1,7 +1,7 @@
 
 
-<h1> Hi there 👋 J. Haryson  ⚡ </h1>
-<h3> Frontend Enginner that like design, Computer Engineer and human. </h3>   
+<h1> J. Haryson  ⚡ </h1>
+<h4> Frontend Enginner that like design, Computer Engineer and human. </h4>   
 
 <h1 align="center">
   <img alt="jhersonharyson's github stats" width="40%" height="150" src="https://github-readme-stats.vercel.app/api?username=jhersonharyson&show_icons=true&theme=dark" />
