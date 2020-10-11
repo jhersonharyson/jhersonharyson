@@ -1,5 +1,13 @@
-### Hi there 👋
 
+
+<h1> Hi there 👋 J. Haryson  ⚡ </h1>
+<h3> Frontend Enginner that like design, Computer Engineer and human. </h3>   
+
+<h1 align="center">
+  <img alt="jhersonharyson's github stats" width="40%" height="150" src="https://github-readme-stats.vercel.app/api?username=jhersonharyson&show_icons=true&theme=dark" />
+
+  <img alt="jhersonharyson's github stats" width="40%" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhersonharyson&layout=compact" />
+</h1>
 <!--
 **jhersonharyson/jhersonharyson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +22,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
