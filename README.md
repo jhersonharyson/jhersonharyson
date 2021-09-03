@@ -23,9 +23,9 @@
 <p>Speaker and Jedi in his spare time</p>
 
 <h3>📫 My Github Stats</h3>
-<h1 align="center">
-  <img alt="jhersonharyson's github stats" width="40%" height="150" src="https://github-readme-stats.vercel.app/api?username=jhersonharyson&show_icons=true&theme=dark" />
-  <img alt="jhersonharyson's github stats" width="40%" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhersonharyson&layout=compact" />
+<h1>
+  <img alt="jhersonharyson's github stats" width="49%" height="189" src="https://github-readme-stats.vercel.app/api?username=jhersonharyson&show_icons=true&theme=dark" />
+  <img alt="jhersonharyson's github stats" width="49%" height="189" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhersonharyson&layout=compact&theme=dark" />
 </h1>
 <!--
 **jhersonharyson/jhersonharyson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
