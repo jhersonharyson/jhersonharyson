@@ -26,6 +26,12 @@
 <h1>
   <img alt="jhersonharyson's github stats" width="45%" height="150" src="https://github-readme-stats.vercel.app/api?username=jhersonharyson&show_icons=true&theme=dark" />
   <img alt="jhersonharyson's github stats" width="45%" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhersonharyson&layout=compact&theme=dark" />
+  
+  <img alt="jhersonharyson's github stats" width="45%" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=false" />
+  
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+  
 </h1>
 <!--
 **jhersonharyson/jhersonharyson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
