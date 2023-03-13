@@ -8,19 +8,19 @@
   <li>Mastering Computer Science</li>
 </ul>
 <h3>💬 A little about myself</h3>
-<p>I am a Computer Engineer with a passion for digital interfaces, user experience and products.</p>
-
-<p>I recently started my master's degree in Software Engineering from the Federal University of Pará.</p>
-
-<p>Post-graduate student in Interaction Design.</p>
-
-<p>I work as Frontend Engineer at @Dextra, where I focus my work mainly on frontend development of systems and web platforms.</p>
-
-<p>I have solid knowledge in systems development, working with spring boot, node, angular +2, react and react native in the development of digital products and solutions for bank customers and financial institutions.</p>
-
-<p>Currently, I also study and apply UX / UI processes focusing mainly on interaction design in digital products.</p>
-
-<p>Speaker and Jedi in his spare time</p>
+● Computer Engineer, passionate about interfaces, user experience and digital products<br />
+● Master in Software Engineering<br />
+● Graduate in UX and Interaction Design<br />
+● Frontend design, development and maintenance, interface design and user experience<br />
+● Solid knowledge in software development with Backend, Frontend and Mobile<br />
+● Spring boot, Node, Angular, React and React Native<br />
+● Software quality (Design Patterns, TDD, unit tests, integrated tests, e2e)<br />
+● Jest, Jasmine, React Testing Library, Cypress<br />
+● Database (SQL, NoSQL, REDIS)<br />
+● Docker, Jenkins, CI/CD, AWS, Azure<br />
+● UX/UI Design focused on interaction design in digital products<br />
+● Teams & People Leadership<br />
+● Lecturer & Jedi Knight in spare time<br />
 
 
 ---
@@ -39,23 +39,18 @@
 <img src="https://img.shields.io/badge/-Express.js-787878?style=flat">
 <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
 <img src="https://img.shields.io/badge/-Spring Boot.js-787878?style=flat&logo=springboot&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
+<img src="https://img.shields.io/badge/-Java-F89820?style=flat&logo=JAVA&logoColor=white">
 <br />
 <img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/-SqlServer-CC2927?style=flat&logo=microsoftsqlserver&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=FFFFFF">
 
-<img src="http://img.shields.io/badge/-AWS-4285F4?style=flat&logo=amazon&logoColor=white">
-<img src="https://img.shields.io/badge/-Azure-5A0FC8?style=flat&logo=azuredevops&logoColor=white">
-<img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
-<img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
-<img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
-<img src="http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white">
+<img src="http://img.shields.io/badge/-AWS-4285F4?style=flat&logo=amazon&logoColor=white"> <img src="https://img.shields.io/badge/-Azure-5A0FC8?style=flat&logo=azuredevops&logoColor=white"> <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF"> <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF"> <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white"> <img src="http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white">
 
 
 ### Other Languages I know
-<img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> 
+<img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/-C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> 
 
 ---
 
