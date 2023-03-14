@@ -1,12 +1,11 @@
 
 
 <h2>🔭 Hi! I'm J. Haryson</h1>
-<ul>
-  <li>Software Engineer</li>
-  <li>Interaction Design</li>
-  <li>Computer Engineer Graduated</li>
-  <li>Mastering Computer Science</li>
-</ul>
+● Software Engineer<br />
+● Interaction Design<br />
+● Computer Engineer Graduated<br />
+● Mastering Computer Science<br />
+
 <h3>💬 A little about myself</h3>
 ● Computer Engineer, passionate about interfaces, user experience and digital products<br />
 ● Master in Software Engineering<br />
