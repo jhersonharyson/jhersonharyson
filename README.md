@@ -45,6 +45,7 @@
 <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/-SqlServer-CC2927?style=flat&logo=microsoftsqlserver&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=FFFFFF">
+<br />
 <img src="http://img.shields.io/badge/-AWS-4285F4?style=flat&logo=amazon&logoColor=white"> <img src="https://img.shields.io/badge/-Azure-5A0FC8?style=flat&logo=azuredevops&logoColor=white"> <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF"> <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF"> <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white"> <img src="http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white">
 
 
